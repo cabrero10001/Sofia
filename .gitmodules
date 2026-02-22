@@ -1,0 +1,6 @@
+[submodule "Back-ms-Sofia-IA"]
+	path = Back-ms-Sofia-IA
+	url = https://github.com/cabrero10001/Back-ms-Sofia-IA.git
+[submodule "Front-Sof-IA"]
+	path = Front-Sof-IA
+	url = https://github.com/XonoderaX12345/Front-Sof-IA.git
